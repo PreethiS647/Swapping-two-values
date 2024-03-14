@@ -1,4 +1,9 @@
 # Swapping-two-values
+NAME : PREETHI S
+
+REGISTER NUMBER : 212223230157
+
+DEPT : AIDS
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -18,7 +23,21 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+## Program to swap two values.
+## Developed by: ALIYA SHEEMA
+## RegisterNumber: 23005529
+a=input()
+b=input()
+c=a
+a=b
+b=c
+print("Swapped values are:",a,b)
 
+```
+## OUTPUT:
+
+![alt text](Output.png)
 
 
 ## RESULT:

@@ -24,9 +24,7 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-## Program to swap two values.
-## Developed by: ALIYA SHEEMA
-## RegisterNumber: 23005529
+
 a=input()
 b=input()
 c=a
